@@ -30,7 +30,7 @@ The primary goal of this project was to showcase effective front-end development
 
 ---
 
-## 🛠 Local Setup Guide
+## Local Setup Guide
 
 1.  **Clone the repository:**
     ```bash
